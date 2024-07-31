@@ -1,4 +1,4 @@
-## Hi there 👋
+<center> Hi Im Induru_Udantha 👋</center>
 
 <div align="center">
   <picture>
