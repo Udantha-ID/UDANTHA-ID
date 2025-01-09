@@ -37,7 +37,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://devnest.live" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Internet_Explorer_4_logo.svg/1024px-Internet_Explorer_4_logo.svg.png" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/1024px-Internet_Explorer_4_logo.svg.png" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
 <p align="left">📞 +94 76 390 4365</p>
